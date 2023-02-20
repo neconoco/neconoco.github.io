@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>asakomusic : seabeams</title>
+<style>
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-size: small;
+	color: #FF3300;
+	background-color: #FFF;
+	border-width:3px;
+	border-color:#0099CC;
+	border-style:dotted;
+}
+
+table {
+  border-width:5px;
+  border-color:  #39C;
+  border-style:dotted;
+   }
+a:link {
+	color: #333;
+	text-decoration: underline;
+}
+a:visited {
+	color: #333;
+	text-decoration: underline;
+}
+a:hover {
+	color: #069;
+	text-decoration: none;
+}
+a:active {
+ #99CC33
+	text-decoration: none;
+	text-decoration: underline;
+}
+body,td,th {
+	color: #000;
+}
+  #playlist{
+            list-style: none;
+        }
+        #playlist li a{
+            color:black;
+            text-decoration: none;
+        }
+        #playlist .current-song a{
+            color:blue;
+        }
+</style>
+</head>
+
+<body>
+<p align="right"><a href="index.html"> Home </a></p>
+<p align="right"><a href="Projects.html">Projects</a></p>
+<table width="536" border="1" cellspacing="2" cellpadding="2">
+  <tr>
+    <td colspan="2" valign="baseline"><strong>SEABEAMS</strong>      <div align="right"></div></td>
+  </tr>
+  <tr>
+    <td width="232" valign="baseline">
+        <audio src="" controls id="audioPlayer">
+        Sorry, your browser doesn't support html5!
+    </audio>
+    <ul id="playlist">
+        <li class="current-song"><a href="asakosongs/Chemicals.mp3" type="audio/mp3">Chemicals</a></li>
+     <li><a href="asakosongs/TheRiver.mp3">The River</a></li>
+     <li><a href="asakosongs/BlueSky.mp3">Blue Sky</a></li>
+     <li><a href="asakosongs/Delicious.mp3">Delicious</a></li>
+     <li><a href="asakosongs/Transformed.mp3">Transformed</a></li>
+     <li><a href="asakosongs/We'reGoingAway.mp3">We're Going Away</a></li>
+     <li><a href="asakosongs/IJustDon'tKnow.mp3">I Just Don't Know</a></li>
+     <li><a href="asakosongs/YouLookDead.mp3">You Look Dead</a></li>
+     <li><a href="asakosongs/IHaveOnlyOneDog.mp3">I Have Only One Dog</a></li>
+
+   </ul>
+  <script src="jquery-2.2.0.js"></script>
+    <script src="audioPlayer.js"></script>
+    <script>
+        // loads the audio player
+        audioPlayer();
+    </script>
+</td>
+    <td width="276" valign="baseline"><p>1994-1996 New York City.</p>
+    <p>Analog Synth Pop band with only sound source by  collections of analog synthesizers and vocal. Performed live shows with 12 synth on stage, Theremin, and vocorder and sampled electronic drums in NYC conert venues. </p></td>
+  </tr>
+</table>
+
+</body>
+</html>

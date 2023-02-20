@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<track>
+		<path>asakosongs/peachpurplelight.mp3</path>
+		<title>Peach Purple Light - asakomusic</title>
+	</track>
+	<track>
+		<path>asakosongs/Breakble.mp3</path>
+		<title>Breakble - asakomusic</title>
+	</track>
+	<track>
+		<path>asakosongs/PlasticJungle.mp3</path>
+		<title>Plastic Jungle - asakomusic</title>
+	</track>
+	<track>
+		<path>asakosongs/GreenCloud.mp3</path>
+		<title>Green Cloud - asakomusic</title>
+	</track>
+	<track>
+		<path>asakosongs/RedString.mp3</path>
+		<title>Red String - asakomusic</title>
+	</track>
+	<track>
+		<path>asakosongs/SkyIsBlue.mp3</path>
+		<title>Sky Is Blue - asakomusic</title>
+	</track>
+	<track>
+		<path>asakosongs/HideandSeek.mp3</path>
+		<title>Hide & Seek - asakomusic</title>
+	</track>
+	<track>
+		<path>asakosongs/IndianFalls.mp3</path>
+		<title>Indian Falls - asakomusic</title>
+	</track>
+</xml>

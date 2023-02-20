@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<track>
+		<path>asakosongs/RoundandLow.mp3</path>
+		<title>Round and Low - asakomusic</title>
+	</track>
+	<track>
+		<path>asakosongs/ShinyBlack.mp3</path>
+		<title>Shiny Black - asakomusic</title>
+	</track>
+	<track>
+		<path>asakosongs/Pistachio'sDream.mp3</path>
+		<title>Pistachio's Dream - asakomusic</title>
+	</track>
+	<track>
+		<path>asakosongs/SalondeCafé.mp3</path>
+		<title>Salon de Café - asakomusic</title>
+	</track>
+</xml>

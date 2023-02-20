@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<track>
+<path>asakosongs/Wolfie.mp3</path>
+		<title>Wolfie - Dead Radar</title>
+	</track>
+	<track>
+		<path>asakosongs/DogsofJesus.mp3</path>
+		<title>Dogs of Jesus - Dead Radar</title>
+	</track>
+	<track>
+		<path>asakosongs/HoldMe.m4a</path>
+		<title>Hold Me - Dead Radar</title>
+	</track>
+	<track>
+		<path>asakosongs/Broken.m4a</path>
+		<title>Broken - Dead Radar</title>
+	</track>
+	<track>
+		<path>asakosongs/Static3.m4a</path>
+		<title>Static 3 - Dead Radar</title>
+	</track>
+	<track>
+		<path>asakosongs/Walking.mp3</path>
+		<title>Walking - Dead Radar</title>
+	</track>
+	<track>
+		<path>asakosongs/ShakeShackles.m4a</path>
+		<title>Shake Shackles - Dead Radar</title>
+	</track>
+	<track>
+		<path>asakosongs/TheFeeling.mp3</path>
+		<title>The Feeling - Dead Radar</title>
+	</track>
+	<track>
+		<path>asakosongs/TomorrowKnows.mp3</path>
+		<title>Tomorrow Knows - Dead Radar</title>
+	</track>
+	<track>
+		<path>asakosongs/HackAway.mp3</path>
+		<title>Hack Away - Dead Radar</title>
+	</track>
+</xml>
