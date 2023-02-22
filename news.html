@@ -18,18 +18,10 @@ body {
 	font-family: "Times New Roman", Times, serif;
 	font-size: small;
 	color: #000000;
-  background-color: #CCCCCC;
+  background-color: #F4F4F4;
   border-width:3px;
   border-color:#333333;
   border-style:dotted; }
-
-table {max-width: inherit
-  border-width:3px;
-  background-color: #FFFFFF;
-  border-color: #CCCCCC;
-  border-style:dotted;
-   }
-img {border:3px;}
 
 table {
   border-width:3px;
@@ -38,6 +30,11 @@ table {
   border-style:dotted;
    }
 img {border:3px;}
+	.panelgrid {
+    table-layout: fixed;
+    width: 500px;
+    word-wrap: break-word;
+}
 a:link {
 	text-decoration: none;
 	color: #999;
@@ -72,7 +69,9 @@ body,td,th {
 
 <body>
 <p align="center" id="toplist"><a href="index.html">Home</a> * News * <a href="composing_cv.html">CompositionCV</a> * <a href="cosmicberry.html">CosmicBerry</a> * <a href="projects.html">Collabolations</a> * <a href="about.html">About</a></p>
-<table border="0" align="center">
+<table border="0" align="center" table-layout=fixed;
+    width=500px;
+    word-wrap=break-word;>
   <tr>
     <td align="left" valign="top"><p><strong><em>RECENT ACTIVITIES :</em></strong><em></em></p></td>
   </tr>
