@@ -1,35 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <xml>
 	<track>
-		<path>asakosongs/Chemicals.mp3</path>
-		<title>Chemicals - seabeams</title>
+		<path>asakosongs/Esch2022_0202.mp3</path>
+		<title>Generative 1 - Asako Fujimoto</title>
 	</track>
 	<track>
-		<path>asakosongs/TheRiver.mp3</path>
-		<title>The River - seabeams</title>
+		<path>asakosongs/Esch2022_3001MaxMix.mp3</path>
+		<title>Generative 2 - Asako Fujimoto</title>
 	</track>
 	<track>
-		<path>asakosongs/BlueSky.mp3</path>
-		<title>Blue Sky - seabeams</title>
-	</track>
-	<track>
-		<path>asakosongs/We'reGoingAway.mp3</path>
-		<title>We're Going Away - seabeams</title>
-	</track>
-	<track>
-		<path>asakosongs/YouLoockDead.mp3</path>
-		<title>You Loock Dead - seabeams</title>
-	</track>
-	<track>
-		<path>asakosongs/Delicious.mp3</path>
-		<title>Delicious - seabeams</title>
-	</track>
-	<track>
-		<path>asakosongs/IHaveOnlyOneDog.mp3</path>
-		<title>I Have Only One Dog - seabeams</title>
-	</track>
-	<track>
-		<path>asakosongs/Transformed.mp3</path>
-		<title>Transformed - seabeams</title>
+		<path>asakosongs/WildeMöhre2022_29h.doc.mp3</path>
+		<title>Generative 3 - Asako Fujimoto</title>
 	</track>
 </xml>
